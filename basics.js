@@ -1,3 +1,8 @@
+
+// Learning JavaScript
+// Basics Tutorial 1
+
+
 console.log("Bonjour madame");
 var myNumber = 3;
 var myString = "I am cute"
@@ -21,6 +26,8 @@ console.log(animalsArray[1])
 animalsArray[2]='pig'
 console.log(animalsArray);
 
+// Stacks
+
 // Pushing and popping
 
 var myStack = []
@@ -32,7 +39,8 @@ console.log(myStack);
 console.log(myStack.pop());
 console.log(myStack);
 
-// Queues using shifting and unshifting
+// Queue
+// Shifting and unshifting
 
 var myQueue = [];
 myQueue.push(1);
