@@ -32,7 +32,9 @@ function newStyle() {
         newFont = 'Impact';
         break;
   }
+
   var elem = document.getElementById('logo');
   elem.style.color = newColor;
   elem.style.fontFamily = newFont;
+
 }
